@@ -1,5 +1,18 @@
 # 💬 Bazarr (Subtitles)
 
+## 🔗 Navegação
+
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Entretenimento (RPi 5 8GB)](https://github.com/AslamSys/_system/blob/main/hardware/entretenimento/README.md)** → **entretenimento-bazarr-subtitles**
+
+### Containers Relacionados (entretenimento)
+- [entretenimento-brain](https://github.com/AslamSys/entretenimento-brain)
+- [entretenimento-media-server](https://github.com/AslamSys/entretenimento-media-server)
+- [entretenimento-radarr-movies](https://github.com/AslamSys/entretenimento-radarr-movies)
+- [entretenimento-sonarr-series](https://github.com/AslamSys/entretenimento-sonarr-series)
+- [entretenimento-streaming-aggregator](https://github.com/AslamSys/entretenimento-streaming-aggregator)
+
+---
+
 **Container:** `bazarr-subtitles`  
 **Stack:** Bazarr  
 **Propósito:** Download automático de legendas
